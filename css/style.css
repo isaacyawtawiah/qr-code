@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root{
+ --White: hsl(0, 0%, 100%);
+--lightGray: hsl(212, 45%, 89%);
+--grayishbBlue: hsl(220, 15%, 55%);
+--darkBlue: hsl(218, 44%, 22%);
+
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--lightGray);
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+} */
