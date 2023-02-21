@@ -15,7 +15,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 100vh;
+    text-align: center;
 }
 
 img{
@@ -43,6 +45,7 @@ p{
  .attribution { 
     font-size: 11px; 
     text-align: center; 
+    margin-top: 50px;
 }
     
 .attribution a { 
